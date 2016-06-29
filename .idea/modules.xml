@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-play2-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/study-play2-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-play2-scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/study-play2-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyplay2scala.iml" filepath="$PROJECT_DIR$/studyplay2scala.iml" />
+    </modules>
+  </component>
+</project>
